@@ -1,0 +1,13 @@
+{
+  "name": "procedure",
+  "repo": "lge88/procedure",
+  "scripts": [
+    "index.js"
+  ],
+  "description": "An util function to construct a sequential control flow, with the ability to add pre and post processors",
+  "version": "0.0.1",
+  "keywords": [
+    "control flow"
+  ],
+  "license": "MIT"
+}
